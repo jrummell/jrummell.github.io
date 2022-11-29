@@ -50,3 +50,14 @@ As I get older, I keep putting a higher priority on quality sleep. This isn't th
 There are two main players in the backpacking water filtration market, and the BeFree is my personal favorite. Just make sure to keep your filter clean be shaking or swishing often.
 
 <a href="https://www.amazon.com/Katadyn-Membrane-Endurance-Camping-Backpacking/dp/B075X5R67T?crid=446ZBJCDA146&keywords=katadyn+befree&qid=1669748038&s=sporting-goods&sprefix=kayadyn+beefree%2Csporting%2C91&sr=1-1&linkCode=li2&tag=jrummell04-20&linkId=532fb8c34d1a606b4c360877eb31e5d2&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B075X5R67T&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jrummell04-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=jrummell04-20&language=en_US&l=li2&o=1&a=B075X5R67T" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+## Notes and References
+
+Some of the preceding links are affiliate links, where I earn a small percentage if you purchase that item. I don't like using ads, so this is one way I can help cover hosting costs.
+
+I didn't discover these products on my own, I watched hundreds of backpacking gear videos from the following fantastic channels:
+
+- [@DanBecker](https://www.youtube.com/@DanBecker)
+- [@JustinOutdoors](https://www.youtube.com/@JustinOutdoors)
+- [@BackpackingTV](https://www.youtube.com/@BackpackingTV)
+- [@BryceNewbold](https://www.youtube.com/@BryceNewbold)
