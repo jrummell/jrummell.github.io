@@ -3,7 +3,7 @@ permalink: backpacking-essentials
 title: Backpacking Essentials
 layout: post
 date: 2022-11-29 00:00:00
-published: true
+published: false
 tags: backpacking hiking
 ---
 
