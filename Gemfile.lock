@@ -264,6 +264,7 @@ GEM
       thread_safe (~> 0.1)
     unicode-display_width (1.8.0)
     uri (1.1.2)
+    webrick (1.9.2)
     zeitwerk (2.8.3)
 
 PLATFORMS
@@ -271,6 +272,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  webrick
 
 BUNDLED WITH
    2.3.26
