@@ -1,5 +1,6 @@
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
-name: ci-${{ github.event.pull_request.number || github.ref }}
+name: ci
+run-name: ${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}-${{ github.run_number }}.${{ github.run_id }}
 
 on:
   # Runs on pushes targeting the default branch
